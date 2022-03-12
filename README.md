@@ -13,11 +13,11 @@
 <a href="https://github.com/phill030">
   <p align="center">
     <img 
-      height="150em"
+      height="170em"
       src="https://github-readme-stats.vercel.app/api?username=Phill030&count_private=true&show_icons=true&theme=synthwave"
     />
     <img 
-      height="150em"
+      height="170em"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=phill030&langs_count=8&theme=synthwave"
     />
   </p>
