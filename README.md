@@ -23,9 +23,6 @@
   </p>
 </a>
 
-## 📞 Discord
-[![Discord Presence](https://lanyard.cnrad.dev/api/348749274911342602)](https://discord.com/users/348749274911342602)
-
 ## 🔧 Tools & Tech
 ![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=00A5CF)
 <br/>
