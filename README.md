@@ -3,7 +3,7 @@
 
 <a href="https://github.com/phill030">
   <p align="center">
-    <img src="https://imgur.com/a/qz2ZFmy" style="width: 80%;"/>
+    <img src="https://wallpapercave.com/wp/wp6227423.gif" style="width: 80%;"/>
   </p>
 </a>
 
