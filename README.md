@@ -3,7 +3,7 @@
 
 <a href="https://github.com/phill030">
   <p align="center">
-    <img src="https://ofuturodascoisas.com/wp-content/uploads/2018/04/virtuaverse-by-Valenberg-1.gif" style="width: 80%;"/>
+    <img src="https://imgur.com/a/qz2ZFmy" style="width: 80%;"/>
   </p>
 </a>
 
