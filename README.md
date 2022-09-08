@@ -67,10 +67,13 @@
   
 </details>
 
-## ☎ Contact
+<details><summary><h2> ☎ Contact </h2></summary>
+
 | Platform | Name |
 | -------- | ---- |
 | ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) | <strong>Phill030</strong> |
 | ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) | Phill |
 | ![Discord](https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white) | Phill#1649 |
 | ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) | contact@phill030.de |
+
+</details>
