@@ -23,29 +23,36 @@
   </p>
 </a>
 
-## 🔧 Tools & Tech
-![](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=Windows&logoColor=white&color=00A5CF)
-<br/>
+## 👨‍🏫 Programming languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![](https://img.shields.io/badge/Tool-VSC-informational?style=flat&logo=VisualStudioCode&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-VS22-informational?style=flat&logo=VisualStudio&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-Putty-informational?style=flat&logo=putty&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-GitHub_Desktop-informational?style=flat&logo=github&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-Node.JS-informational?style=flat&logo=node.js&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-NPM-informational?style=flat&logo=NPM&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-Bash-informational?style=flat&logo=bash&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-Debian-informational?style=flat&logo=Debian&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-Ubuntu-informational?style=flat&logo=Ubuntu&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-SSH-informational?style=flat&logo=SSH&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-Figma-informational?style=flat&logo=Figma&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Tool-Bootstrap-informational?style=flat&logo=Bootstrap&logoColor=white&color=00A5CF)
-<br/>
+## 📖 Currently learning
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-![](https://img.shields.io/badge/Code-CSharp-informational?style=flat&logo=csharp&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&logo=TypeScript&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Code-VueJs-informational?style=flat&logo=vue.js&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=00A5CF)
-![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=00A5CF)
+## 🖥 Operating System
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Dualboot
+
+
+## 🛠 Tools
+![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
+![Emacs](https://img.shields.io/badge/Emacs-%237F5AB6.svg?&style=for-the-badge&logo=gnu-emacs&logoColor=white)
+![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+
+## 💻 Setup
+
+## 📗 Common Frameworks & Libraries
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) +
+![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
