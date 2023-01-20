@@ -62,7 +62,7 @@
 | GPU | nVIDIA RTX 2060 Super |
 | RAM | 32GB DDR4 RAM |
 | CPU | AMD Ryzen 5 3600 6-Core |
-| HDD | 2x Seagate ST2000DM001 1TB |
+| HDD | 2x Seagate ST2000DM001 2TB |
 | SSD | SanDisk SSD PLUS 480GB |
   
 </details>
