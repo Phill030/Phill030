@@ -1,7 +1,7 @@
 # Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
 ### <a><p align="center">My name is Phill and I'm a student from Germany.</p></a>
 
-<a href="https://github.com/phill030">
+<a href="https://phill030.de">
   <p align="center">
     <img src="https://wallpapercave.com/wp/wp6227423.gif" style="width: 80vh;"/>
   </p>
@@ -10,7 +10,7 @@
 
 
 ## 📈 GitHub Stats
-<a href="https://github.com/phill030">
+<a href="https://phill030.de">
   <p align="center">
     <img 
       height="170em"
