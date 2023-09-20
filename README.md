@@ -1,9 +1,17 @@
-# Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="25px" height="25px">
-### <a><p align="center">My name is Phill and I'm a student from Germany.</p></a>
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"></h1> 
+
+<h3>About me</h3>
+<ul>
+  <li>📚 My name is Philipp but you can call me Phill</li>
+  <li>🌍 I'm an IT student from Germany</li>
+  <li>🔥 I don't really care about pronouns, you can call me whatever you want</li>
+  <li>🛰 You can reach out to me on Discord @ <code>phill030</code>, my DM's are always open! </li>
+  <li>🧿 What's the best language? Rust.</li>
+</ul>
 
 <a href="https://phill030.de">![wp6227423](https://github.com/Phill030/Phill030/assets/50775241/7bd106a7-6003-4d30-b234-2f109cd09f6e)</a>
 
-
+__________________
 
 ## 📈 GitHub Stats
 <a href="https://phill030.de">
@@ -19,6 +27,8 @@
   </p>
 </a>
 
+</br>
+
 ## 👨‍🏫 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -27,13 +37,12 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
+</br>
+
 ## 📖 Currently learning
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
 
-## 🖥 Operating System
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Dualboot
+</br>
 
 ## 🛠 Tools
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
@@ -47,10 +56,11 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 
-## 📗 Common Frameworks & Libraries
-![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) +
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) +
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+</br>
+
+## 🖥 Operating System
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Dualboot
 
 <details><summary><h2> 💻 Setup </h2></summary>
   
