@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://github.com/Phill030/Phill030/blob/main/assets/wave.gif" width="35px" height="35px"></h1> 
+<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/Phill030/Phill030/main/assets/wave.gif" width="35px" height="35px"></h1> 
 
 <h3>About me</h3>
 <ul>
