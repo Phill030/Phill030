@@ -1,4 +1,4 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px" height="35px"></h1> 
+<h1 align="center">Hey there <img src="./assets/wave.gif" width="35px" height="35px"></h1> 
 
 <h3>About me</h3>
 <ul>
