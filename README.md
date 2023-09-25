@@ -4,6 +4,7 @@
 <ul>
   <li>📚 My name is Philipp but you can call me Phill</li>
   <li>🌍 I'm an IT student from Germany</li>
+  <li>🕹 I'm an expert in breaking games</li>
   <li>🔥 I don't really care about pronouns, you can call me whatever you want</li>
   <li>🛰 You can reach out to me on Discord @ <code>phill030</code>, my DM's are always open! </li>
   <li>🧿 What's the best language? Rust.</li>
