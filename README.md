@@ -1,4 +1,5 @@
-<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/Phill030/Phill030/main/assets/wave.gif" width="35px" height="35px"></h1> 
+<!--<h1 align="center">Hey there <img src="https://raw.githubusercontent.com/Phill030/Phill030/main/assets/wave.gif" width="35px" height="35px"></h1>-->
+![github-header-image (1)](https://github.com/Phill030/Phill030/assets/50775241/56146263-d34d-4eef-8536-a17a7520b21e)
 
 <h3>About me</h3>
 <ul>
@@ -72,7 +73,7 @@ __________________
 | RAM | 32GB DDR4 RAM |
 | CPU | AMD Ryzen 5 3600 6-Core |
 | HDD | 2x Seagate ST2000DM001 2TB |
-| SSD | SanDisk SSD PLUS 480GB |
+| SSD | SanDisk SSD PLUS 1000GB |
   
 </details>
 
