@@ -31,6 +31,14 @@ __________________
 
 </br>
 
+<p align="center" style="margin:0;">
+  <img height="500px" width="auto" src="https://i.makeagif.com/media/2-25-2016/mrXTFc.gif">
+</p>
+<p align="center" style="text-align: center; margin:0;">
+    This page is under construction!
+</p>
+
+<!--
 ## 👨‍🏫 Skills
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -39,11 +47,6 @@ __________________
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-
-</br>
-
-## 📖 Currently learning
----
 
 </br>
 
@@ -60,6 +63,7 @@ __________________
 ![Tauri](https://img.shields.io/badge/tauri-%2324C8DB.svg?style=for-the-badge&logo=tauri&logoColor=%23FFFFFF)
 
 </br>
+-->
 
 ## 🖥 Operating System
 ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
