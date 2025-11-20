@@ -70,15 +70,35 @@ __________________
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Dualboot
 
 <details><summary><h2> 💻 Setup </h2></summary>
-  
-| Type | Name |
-| ---- | ---- |
-| GPU | nVIDIA RTX 2060 Super |
-| RAM | 32GB DDR4 RAM |
-| CPU | AMD Ryzen 5 3600 6-Core |
-| HDD | 2x Seagate ST2000DM001 2TB |
-| SSD | SanDisk SSD PLUS 1000GB |
-  
+
+My PC:
+```
+- NVIDIA RTX 2060 Super
+- 32GB DDR4 RAM
+- AMD Ryzen 5 3600 6-Core
+- 2x Seagate ST2000DM001 2TB
+- 1x SanDisk SSD PLUS 1000GB
+```
+
+My HPE MicroServer Gen10:
+```
+- AMD Opteron X3216 (2 cores, 1.6 GHz)
+- 16GB DDR4 ECC RAM
+- 2 x 2TB HDD (Mirror) & 2x 1TB HDD (Mirror)
+- Dual Gigabit Ethernet (LACP)
+- 200W PSU
+- TrueNas Scale
+```
+
+My Fujitsu Primergy RX 1330 M1:
+```
+- Intel Xeon E3-1246v3 (4 cores, 3.5 GHz)
+- 8GB DDR3 ECC RAM
+- 2 x 1TB SSD (Stripe) (Samsung 870QVO)
+- Dual Gigabit Ethernet
+- 2x Redundant 450W PSU
+- VMware ESXi 8.0
+```
 </details>
 
 <details><summary><h2> ☎ Contact </h2></summary>
